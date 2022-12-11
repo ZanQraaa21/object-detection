@@ -1,0 +1,8 @@
+path: ../datasets/text_detection
+train: train.txt
+val: val.txt
+test: test.txt
+
+# Classes
+names:
+  0: text
