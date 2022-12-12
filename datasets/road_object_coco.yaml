@@ -1,0 +1,14 @@
+path: ../datasets/custom_coco  # dataset root dir
+train: train.txt  # train images (relative to 'path') 118287 images
+val: val.txt  # val images (relative to 'path') 5000 images
+test: test.txt  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+
+# Classes
+names:
+  0: pedestrian
+  1: bicycle
+  2: car
+  3: motorcycle
+  4: bus
+  5: train
+  6: truck
