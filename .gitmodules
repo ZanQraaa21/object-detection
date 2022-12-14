@@ -1,3 +1,6 @@
 [submodule "yolov5"]
 	path = yolov5
 	url = https://github.com/ultralytics/yolov5
+[submodule "Yolov5_DeepSort"]
+	path = Yolov5_DeepSort
+	url = https://github.com/ynlx/Yolov5_DeepSort.git
