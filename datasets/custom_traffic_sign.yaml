@@ -1,7 +1,7 @@
-path: ../datasets/ts_mod/obj_train_data
+path: ../datasets/custom_traffic_sign
 train: train.txt
 val: val.txt
-test: 
+test: test.txt
 
 # Classes
 names:
