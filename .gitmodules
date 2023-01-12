@@ -4,3 +4,6 @@
 [submodule "Yolov5_DeepSort"]
 	path = Yolov5_DeepSort
 	url = https://github.com/ynlx/Yolov5_DeepSort.git
+[submodule "EasyOCR"]
+	path = EasyOCR
+	url = https://github.com/JaidedAI/EasyOCR.git
